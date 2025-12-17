@@ -12,7 +12,7 @@ The project uses the **Adult Census Income** dataset (often referred to as the "
 * **Key Features:** Age, Workclass, Education, Marital Status, Occupation, Race, Sex, Hours per week, Native Country.
 
 ## Tech Stack
-* **Python 3.x**
+* **Python 3.12**
 * **Pandas:** For data manipulation and cleaning.
 * **NumPy:** For numerical operations and handling missing values.
 * **Seaborn & Matplotlib:** For data visualization (Boxplots, Heatmaps).
@@ -62,14 +62,14 @@ New features were derived to extract deeper insights:
 * **Correlation Matrix:** Identifies that Education Level and Experience are strong indicators of high income, while the custom 'Work-life Balance' metric shows a negative correlation with higher age/experience brackets.
 <img width="827" height="741" alt="image" src="https://github.com/user-attachments/assets/2bcb9993-8f5b-4c75-8e26-2f8c6dd9d909" />
 * **Demographic Factors:** A clear upward trend showing that as education-num (years of education) increases, the probability of high earning (earning_potential) increases significantly.
-  <img width="618" height="490" alt="image" src="https://github.com/user-attachments/assets/7adb102e-9927-4f52-802c-c37c08bc60c3" />
-* A bar chart comparing earning potential between genders.
-  <img width="625" height="482" alt="image" src="https://github.com/user-attachments/assets/a5a20db1-9a88-47f2-911e-3ffc57c06625" />
-* Bar charts ranking different job roles and employment types by their likelihood of earning >50K.
+<img width="618" height="490" alt="image" src="https://github.com/user-attachments/assets/7adb102e-9927-4f52-802c-c37c08bc60c3" />
+* **A bar chart comparing earning potential between genders.**
+<img width="625" height="482" alt="image" src="https://github.com/user-attachments/assets/a5a20db1-9a88-47f2-911e-3ffc57c06625" />
+* **Bar charts ranking different job roles and employment types by their likelihood of earning >50K.**
 <img width="1110" height="593" alt="image" src="https://github.com/user-attachments/assets/43057fba-8981-4430-82f4-f3389b2de5f2" />
 <img width="512" height="370" alt="image" src="https://github.com/user-attachments/assets/a8d0eefd-1b27-4f61-96e6-db8701e5db10" />
 * **Work-Life Balance:** Shows how your calculated "Work-life Balance" metric changes as people get older.
-  <img width="926" height="577" alt="image" src="https://github.com/user-attachments/assets/ab8a0dda-1d98-49f4-926b-989d2ef4f175" />
+<img width="926" height="577" alt="image" src="https://github.com/user-attachments/assets/ab8a0dda-1d98-49f4-926b-989d2ef4f175" />
 
 
 
