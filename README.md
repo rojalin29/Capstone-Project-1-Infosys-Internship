@@ -57,7 +57,11 @@ New features were derived to extract deeper insights:
 
 ## Results
 * **Visualizations:** Boxplots comparing work hours across earning classes.
+* <img width="622" height="470" alt="image" src="https://github.com/user-attachments/assets/f7969daa-f94c-4a3a-90b3-5c64bc062646" />
+
 * **Correlation Matrix:** Identifies that Education Level and Experience are strong indicators of high income, while the custom 'Work-life Balance' metric shows a negative correlation with higher age/experience brackets.
+* <img width="827" height="741" alt="image" src="https://github.com/user-attachments/assets/2bcb9993-8f5b-4c75-8e26-2f8c6dd9d909" />
+
 
 ## License
 This project is open-source and available for educational purposes.
